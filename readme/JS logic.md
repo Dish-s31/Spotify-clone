@@ -1,3 +1,6 @@
+NOTE : THis file is for my own understanding if you find it useful then you can go through this, else feel free to skip this.
+
+
 JAvascript logic 
 
 1. first we created an audioelement object from Audio(), constructor , which gives us an HTMLaudioElement object.
@@ -7,5 +10,4 @@ JAvascript logic
 5. The classList property is read-only, but you can use the methods listed below, to add, toggle or remove CSS classes from the list:
 6. The classList property returns the CSS classnames of an element.
 
-The classList property returns a DOMTokenList.
-7. 
+7. The classList property returns a DOMTokenList.
